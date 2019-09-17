@@ -1,0 +1,2 @@
+Header1,Header2,Header3
+"['GAME_ID', 'TEAM_ID', 'TEAM_NAME', 'TEAM_ABBREVIATION', 'TEAM_CITY', 'MIN', 'FGM', 'FGA', 'FG_PCT', 'FG3M', 'FG3A', 'FG3_PCT', 'FTM', 'FTA', 'FT_PCT', 'OREB', 'DREB', 'REB', 'AST', 'STL', 'BLK', 'TO', 'PF', 'PTS', 'PLUS_MINUS']","[u'0021800001', 1610612755, u'76ers', u'PHI', u'Philadelphia', u'120:00', 18, 45, 0.4, 2, 12, 0.167, 4, 7, 0.571, 3, 26, 29, 9, 3, 3, 11, 9, 42, -5.0]","[u'0021800001', 1610612738, u'Celtics', u'BOS', u'Boston', u'120:00', 19, 52, 0.365, 4, 16, 0.25, 5, 7, 0.714, 6, 20, 26, 11, 5, 3, 6, 8, 47, 5.0]"
